@@ -1,0 +1,38 @@
+{
+  "description": "项目配置文件。",
+  "miniprogramRoot": "./",
+  "setting": {
+    "minified": false,
+    "urlCheck": true,
+    "enableSimulatorV2": true,
+    "enableV2": false,
+    "es6": true,
+    "postcss": true,
+    "newFeature": false,
+    "useNewCompiler": true,
+    "enableVDom": true
+  },
+  "compileType": "game",
+  "libVersion": "3.108.1",
+  "appid": "66e63f0d7d0cb50001b629f8",
+  "projectname": "xsdgj",
+  "condition": {
+    "search": {
+      "current": -1,
+      "list": []
+    },
+    "conversation": {
+      "current": -1,
+      "list": []
+    },
+    "game": {
+      "currentL": -1,
+      "list": [],
+      "current": -1
+    },
+    "miniprogram": {
+      "current": -1,
+      "list": []
+    }
+  }
+}
